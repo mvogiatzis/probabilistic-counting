@@ -1,9 +1,7 @@
 Probabilistic Counting on Clickstream data using Storm
 =====================================================
 
-Currently as part of a presentation.  
-
-Blog post, explanation to follow.
+Part of the [London Big-O Meetup presentation](https://github.com/bigoldn/meetups/blob/master/2014-01-22%20-%20Probabilistic%20Counting%20with%20Storm%2C%20Free%20lunches%2C%20and%20NP-Complete%20problems/mvogiatzis_prob_counting.pdf).  
 
 Authors
 ======
@@ -18,6 +16,6 @@ Please contact me at [michael@micvog.com](mailto:michael@micvog.com) or create a
 
 License
 ======
-Copyright © 2013 Michael Vogiatzis  
+Copyright © 2014 Michael Vogiatzis  
 See [License](https://github.com/mvogiatzis/probabilistic-counting/blob/master/LICENSE) for licensing information
 
