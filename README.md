@@ -1,7 +1,7 @@
 Probabilistic Counting on Clickstream data using Storm
 =====================================================
 
-Part of the [London Big-O Meetup presentation](https://github.com/bigoldn/meetups/blob/master/2014-01-22%20-%20Probabilistic%20Counting%20with%20Storm%2C%20Free%20lunches%2C%20and%20NP-Complete%20problems/mvogiatzis_prob_counting.pdf).  
+Part of the [London Big-O Meetup presentation](https://github.com/bigoldn/meetups/blob/master/2014-01-22%20-%20Probabilistic%20Counting%20with%20Storm,%20Free%20lunches,%20and%20NP-Complete%20problems/mvogiatzis_prob_counting.pdf).  
 
 Authors
 ======
